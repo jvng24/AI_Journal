@@ -18,10 +18,12 @@ Again, I used AI this week to help be better understand course concepts. I also 
 
 
 Week 4:
+
 I used AI this week to help understand the topics again. I would say this week was the hardest for me so far, so I admit to using AI to teach me a lot more. I also used outside sources such as youtube and again, https://www.w3schools.com/python/default.asp. I find this source to be useful because it uses step by step instructions as well as visuals. They even provide you with the code to try out yourself. A few examples of how I used AI was to ask things such as "how do attributes work?" or "how to format a query?". I also asked for it to provide examples as well as outside exercises to strengthen my undestanding. I haven't started on the team project yet but I will most likely use AI as assistance as well. Overall, AI has been a good learning tool. I did not use it to debugg or to do any of my work. 
 
 
 Week 5:
+
 I used AI this week for the project as well as the lab. I used it more on the team project due to the complexity of the assignment. Me and my team used to to brainstorm functions based on the basis of our project. Based on the ones given, we created functions based on the ones that best applied to our project. I was also confused about the docstring formatting and asked for an explanation. The functions that received AI assistance was 3,5,7,8,14. The formatting structure of the code was the most confusing so it aided with that. After collaborating with AI, I learned that it can be used as a useful assistant. Although main topics are known, there will always be tiny things that I might not remember. Being able to ask something instantly makes the process more efficient and grows my understanding. 
 
 
