@@ -27,6 +27,10 @@ Week 5:
 I used AI this week for the project as well as the lab. I used it more on the team project due to the complexity of the assignment. Me and my team used to to brainstorm functions based on the basis of our project. Based on the ones given, we created functions based on the ones that best applied to our project. I was also confused about the docstring formatting and asked for an explanation. The functions that received AI assistance was 3,5,7,8,14. The formatting structure of the code was the most confusing so it aided with that. After collaborating with AI, I learned that it can be used as a useful assistant. Although main topics are known, there will always be tiny things that I might not remember. Being able to ask something instantly makes the process more efficient and grows my understanding. 
 
 
+Week 6:
+This week I used AI to aid me in the lab. Outside of AI, I used this site again: https://www.w3schools.com/python/default.asp. This site has actually done very well in teaching and reinforcing prior python knowledge. It gives exampels, and breaks down the concepts step by step. They even have little quizzes to test your understanding. Along with the site I used some random people on youtube. The code has gotten harder so i've been needing to use more outside resources to help me. Instead of ChatGPT I used Gemini which is somewhat similar. Personally, I think that ChatGPT is more natural and intuitive to use. Regarding the information I used it for, was for class methods. For example, for question 17 it asks for me to add class methods that create reservations. I was confused about how exactly to do that so I asked for an explanation and some examples. If I was still confused I went to the above website to see if it'd help. 
+
+
 
 
 
