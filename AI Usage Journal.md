@@ -28,8 +28,13 @@ I used AI this week for the project as well as the lab. I used it more on the te
 
 
 Week 6:
+
 This week I used AI to aid me in the lab. Outside of AI, I used this site again: https://www.w3schools.com/python/default.asp. This site has actually done very well in teaching and reinforcing prior python knowledge. It gives exampels, and breaks down the concepts step by step. They even have little quizzes to test your understanding. Along with the site I used some random people on youtube. The code has gotten harder so i've been needing to use more outside resources to help me. Instead of ChatGPT I used Gemini which is somewhat similar. Personally, I think that ChatGPT is more natural and intuitive to use. Regarding the information I used it for, was for class methods. For example, for question 17 it asks for me to add class methods that create reservations. I was confused about how exactly to do that so I asked for an explanation and some examples. If I was still confused I went to the above website to see if it'd help. 
 
+
+Week 7: 
+
+This week I used AI to help me with the lab that was assigned this week. I also used AI to help me with project #2 as it is definetely a more complex assignment overall. Per usual, I've been using this site to guide me through the course: https://www.w3schools.com/python/default.asp. Outside of the site I have also been using random videos on Youtube to solidify topics that I dont understand. After reviewing these resources, I then use ChatGPT in order to simulate examples as well as practice questions in order to test my understanding. For example, throughout the lab it asked for me to create test methods. This concept was confusing to me so I asked ChatGPT "What exactly is a test method and how does it work". It then responded by giving me its purpose, structure, how it checks behavior, how automatted running works, and how to optionally clean it up. This cleared up my confusion and gave me a foundation to do the lab. 
 
 
 
