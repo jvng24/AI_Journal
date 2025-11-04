@@ -37,6 +37,11 @@ Week 7:
 This week I used AI to help me with the lab that was assigned this week. I also used AI to help me with project #2 as it is definetely a more complex assignment overall. Per usual, I've been using this site to guide me through the course: https://www.w3schools.com/python/default.asp. Outside of the site I have also been using random videos on Youtube to solidify topics that I dont understand. After reviewing these resources, I then use ChatGPT in order to simulate examples as well as practice questions in order to test my understanding. For example, throughout the lab it asked for me to create test methods. This concept was confusing to me so I asked ChatGPT "What exactly is a test method and how does it work". It then responded by giving me its purpose, structure, how it checks behavior, how automatted running works, and how to optionally clean it up. This cleared up my confusion and gave me a foundation to do the lab. 
 
 
+Week 8: 
+
+This week I tried using AI to get through the lab about inheritance and polymorphism. Instead of figuring it all out alone, I turned to ChatGPT for breakdowns and sample code on subclassing, swapping methods, and how objects act in different contexts. That made things clearer such as why super() matters, tweaking describe() and __str__() my own way, or working out late fees per book type without stacking if or elif checks.
+I checked with AI to figure out why using composition beat inheritance when tacking a Notifier onto LoanDesk. Aside from that, I continued to strengthen my Python basics using w3schools per usual. I also ran through a few YouTube clips to strengthen the ideas. When it came to trying Overall, ChatGPT really made things fit together after reviewing other materials. AI helped connect ideas with real work and also boosted my confidence in python.
+
 
 
 
