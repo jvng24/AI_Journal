@@ -43,7 +43,9 @@ This week I tried using AI to get through the lab about inheritance and polymorp
 I checked with AI to figure out why using composition beat inheritance when tacking a Notifier onto LoanDesk. Aside from that, I continued to strengthen my Python basics using w3schools per usual. I also ran through a few YouTube clips to strengthen the ideas. When it came to trying Overall, ChatGPT really made things fit together after reviewing other materials. AI helped connect ideas with real work and also boosted my confidence in python.
 
 
+Week 9: 
 
+This week, I turned to AI for help grasping abstract classes along with their properties, classmethods, template patterns, and how virtual subclasses are registered in Python. Instead of solving tasks directly, it offered breakdowns and illustrations - this made ideas like media_type, borrowable, or download_link() within Protocols clearer. When issues came up, such as a TypeError during subclass creation, the feedback pointed out where things went wrong. It also showed how to properly set up required abstract methods. While I didn't rely on it for coding assignments or fixing bugs, it strengthened my foundation through explanation rather than solutions. I relied on W3Schools along with some YouTube guides to support my study process. In general, AI enabled me to link theoretical ideas with real coding tasks, deepened my grasp of polymorphism and abstraction, while boosting my self-assurance when using ABCs and Protocols solo.
 
 
 
