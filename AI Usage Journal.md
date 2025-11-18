@@ -48,8 +48,9 @@ Week 9:
 This week, I turned to AI for help grasping abstract classes along with their properties, classmethods, template patterns, and how virtual subclasses are registered in Python. Instead of solving tasks directly, it offered breakdowns and illustrations - this made ideas like media_type, borrowable, or download_link() within Protocols clearer. When issues came up, such as a TypeError during subclass creation, the feedback pointed out where things went wrong. It also showed how to properly set up required abstract methods. While I didn't rely on it for coding assignments or fixing bugs, it strengthened my foundation through explanation rather than solutions. I relied on W3Schools along with some YouTube guides to support my study process. In general, AI enabled me to link theoretical ideas with real coding tasks, deepened my grasp of polymorphism and abstraction, while boosting my self-assurance when using ABCs and Protocols solo.
 
 
+Week 10: 
 
-
+This week, I kept applying AI to better understand topics from the exercises, focusing on Python’s data models, properties, and magic methods. Instead of just reading the slides, I used AI when stuck on ideas like @property with get/set/delete logic. It also explained __post_init__ behavior in dataclasses, which cleaned up initialization steps. Concepts such as __str__ versus __repr__, along with __iter__ and __contains__, became clearer through concrete samples. For class design, AI showed how these elements work together inside objects like Book. When building collections similar to Catalog, total_ordering from functools made comparisons simpler. Each query narrowed gaps in my understanding. One time, I looked into sorting based on varied criteria while exploring how Python handles loops and membership checks. Such responses strengthened my grasp of core object behaviors alongside simple collection designs. I didn't use AI to write or fix my work but, it helped me review ideas, understand terms, also go through problems slowly. 
 
 
 
