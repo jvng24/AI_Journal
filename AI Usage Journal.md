@@ -53,6 +53,11 @@ Week 10:
 This week, I kept applying AI to better understand topics from the exercises, focusing on Python’s data models, properties, and magic methods. Instead of just reading the slides, I used AI when stuck on ideas like @property with get/set/delete logic. It also explained __post_init__ behavior in dataclasses, which cleaned up initialization steps. Concepts such as __str__ versus __repr__, along with __iter__ and __contains__, became clearer through concrete samples. For class design, AI showed how these elements work together inside objects like Book. When building collections similar to Catalog, total_ordering from functools made comparisons simpler. Each query narrowed gaps in my understanding. One time, I looked into sorting based on varied criteria while exploring how Python handles loops and membership checks. Such responses strengthened my grasp of core object behaviors alongside simple collection designs. I didn't use AI to write or fix my work but, it helped me review ideas, understand terms, also go through problems slowly. 
 
 
+Week 12: 
+
+This week, I focused on comprehensive testing and safe refactoring to ensure my projects work correctly as complete systems. I used AI to clarify unit, integration, and system testing concepts, especially for coordinating components like containers, cells, and plants in the garden system. AI also helped me understand refactoring techniques, such as extract methods and adding persistence without breaking existing code. I continued using W3Schools and YouTube for extra examples. AI was a helpful guide for planning tests and improving code quality, but I did not rely on it to write or debug my code. Overall, it strengthened my understanding of testing strategies and system architecture while boosting my confidence.
+
+
 
 
 
