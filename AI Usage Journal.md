@@ -58,6 +58,14 @@ Week 12:
 This week, I focused on comprehensive testing and safe refactoring to ensure my projects work correctly as complete systems. I used AI to clarify unit, integration, and system testing concepts, especially for coordinating components like containers, cells, and plants in the garden system. AI also helped me understand refactoring techniques, such as extract methods and adding persistence without breaking existing code. I continued using W3Schools and YouTube for extra examples. AI was a helpful guide for planning tests and improving code quality, but I did not rely on it to write or debug my code. Overall, it strengthened my understanding of testing strategies and system architecture while boosting my confidence.
 
 
+Week 13: 
+
+This week, I used AI to help with Project 4’s challenges because it pulled together every topic we’ve covered like inheritance, polymorphism, saving data, workflows, plus complete testing. Instead of going into the work immediately, I first looked over class notes, checked W3Schools, and watched  short videos to help me understand the content and writing files along with managing JSON or CSV formats. After getting comfortable with these ideas, I used ChatGPT to outline the big-picture structure in smaller chunks. One thing I asked was how loading and saving would fit within current classes. I also relied on AI to understand how unit, integration, and system tests differ within my specific project setup. For example, it provided cases where object-level checks stand alone compared to broader tests mimicking actual user actions. 
+
+
+
+
+
 
 
 
